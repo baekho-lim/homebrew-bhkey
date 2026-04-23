@@ -1,10 +1,10 @@
 class Bhkey < Formula
   desc "Zero-latency modifier key remapper for macOS external keyboards"
   homepage "https://github.com/baekho-lim/bhkey"
-  url "https://github.com/baekho-lim/bhkey/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "9ee23a9dbb2b485b6b9dddc3d275b775f2e0ae087dcb2d6fce2a3a1f3bc7a98e"
+  url "https://github.com/baekho-lim/bhkey/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "ac6fc07dc4c433d368c976a69f4a2d6263b1a6caf7dceca931a7a720a8465018"
   license "MIT"
-  version "1.0.2"
+  version "1.0.3"
 
   on_macos do
     depends_on :macos => :sierra
